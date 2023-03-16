@@ -1,3 +1,3 @@
 # Krajmark
 Hi I am an up-and-coming java developer.  
-Currently learning [@GreenFoxAcademy](https://www.greenfoxacademy.com/)
+Just finished my studies [@GreenFoxAcademy](https://www.greenfoxacademy.com/)
